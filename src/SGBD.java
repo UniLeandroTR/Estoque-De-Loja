@@ -43,11 +43,11 @@ public interface SGBD extends AutoCloseable {
     void delete(String chave);
 
     /**
-     * Lista as chaves em ordem crescente.
+     * Lista as chaves SKUs em ordem crescente.
      *
-     * @return lista ordenada das chaves atuais
+     * @return lista ordenada das chaves SKUs atuais
      */
-    List<String> listarChavesEmOrdem();
+    List<String> listarSKUsEmOrdem();
 
     /**
      * Informa a quantidade de chaves atualmente armazenadas.

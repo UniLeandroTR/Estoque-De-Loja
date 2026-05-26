@@ -1,0 +1,6 @@
+PUT|SKU:003|Produto [003] \| Nome:  Camiseta \| Preço: R$29,90 \| Quantidade: 10
+PUT|SKU:001|Produto [001] \| Nome:  Calça \| Preço: R$59,90 \| Quantidade: 5
+PUT|SKU:002|Produto [002] \| Nome:  Sapato \| Preço: R$99,90 \| Quantidade: 3
+PUT|SKU:004|Produto [004] \| Nome:  Bolsa \| Preço: R$79,90 \| Quantidade: 7
+PUT|SKU:002|Produto [002] \| Nome:  Sapato \| Preço: R$99,90 \| Quantidade: 3
+DEL|SKU:003|
